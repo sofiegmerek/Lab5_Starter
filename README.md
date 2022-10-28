@@ -1,5 +1,6 @@
 # Lab 5 - Starter
 Sofie Gmerek
+no partner
 
 expose 
 https://sofiegmerek.github.io/Lab5_Starter/expose.html
