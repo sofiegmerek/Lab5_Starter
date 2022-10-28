@@ -9,10 +9,7 @@ const button = document.querySelector("button");
 function init() {
   // TODO
 
-  console.log(voice);
-  const option = document.createElement( 'option' );
-  option.value = option.text = "pizza";
-  voice.add( option );
+
 
   setTimeout(() => {
     populateVoiceList();
